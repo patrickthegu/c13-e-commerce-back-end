@@ -31,7 +31,7 @@ https://github.com/patrickthegu/c13-e-commerce-back-end
 
 - run mysql -u root -p
 
-- run source db/schema.sql
+- run source db/schema.sql from mysql then exit mysql back to command line
 
 - run npm install
 
